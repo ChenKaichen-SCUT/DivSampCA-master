@@ -3,6 +3,7 @@
 
 ## How to Obtain 
 
+git clone https://github.com/ChenKaichen-SCUT/DivSampCA-master.git
 
 ## Installation for Building *DivSampCA*
 
